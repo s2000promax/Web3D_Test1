@@ -1,0 +1,35 @@
+.headerStyle {
+    background-color: bisque;
+  height: 50px;
+  padding-top: 20px;
+  }
+  
+  .navStyle {
+    background-color: rgb(37, 151, 245);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 500px;
+  }
+  
+  .naviStyle {
+    background-color: rgb(163, 230, 241);
+    padding-top: 100px;
+    height: 400px;
+  }
+
+  .buttonStyle {
+  
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+.buttonStyleRight {
+  float: right;
+
+  margin-left: 20px;
+  margin-right: 20px;
+
+    
+  }
